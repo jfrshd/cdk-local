@@ -1,0 +1,32 @@
+{
+    "compile-hero.disable-compile-files-on-did-save-code": true,
+    "git.ignoreLimitWarning": true,
+    "cSpell.words": [
+        "Bitstamp",
+        "CRYPTOAPIS",
+        "CRYPTOCURRENCY",
+        "Elasti",
+        "POSTGRESQL",
+        "RECAPTCHA",
+        "Stackbitsouksclusterc",
+        "Structs",
+        "aerr",
+        "apigatewayv",
+        "apigw",
+        "apigwv",
+        "apikey",
+        "bitsouks",
+        "camelcase",
+        "guuid",
+        "marketcap",
+        "multicoin",
+        "postegres",
+        "postgres",
+        "resty",
+        "sess",
+        "signout",
+        "unmarshall",
+        "unmarshalling",
+        "cdktesting"
+    ]
+}
